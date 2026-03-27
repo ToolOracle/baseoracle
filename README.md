@@ -6,11 +6,11 @@ Port 11701 | Part of [ToolOracle](https://tooloracle.io) Blockchain Oracle Suite
 
 ## What it does
 
-Coinbase L2 intelligence: Aerodrome/Uniswap TVL, contract verification, gas tracker, bridge flows, stablecoin analysis.
+Coinbase L2: Aerodrome/Uniswap TVL, contract verification, gas tracker, bridge flows, stablecoin analysis.
 
 ## 8 Tools
 
-All tools return structured JSON with evidence-grade data. Free to use, no API key required for basic access.
+All tools return structured JSON with evidence-grade data.
 
 ## Quick Start
 
