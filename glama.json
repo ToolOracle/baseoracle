@@ -1,0 +1,11 @@
+{
+  "name": "BaseOracle",
+  "description": "Base L2 intelligence for AI agents — token analytics, bridge monitoring, DeFi data, x402 native via MCP",
+  "repository": "https://github.com/ToolOracle/baseoracle",
+  "endpoint": "https://tooloracle.io/base/mcp/",
+  "health": "https://tooloracle.io/base/health",
+  "tools": 8,
+  "license": "MIT",
+  "author": "FeedOracle Technologies",
+  "tags": ["base-l2", "mcp", "ai-agent", "tooloracle"]
+}
