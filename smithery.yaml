@@ -1,0 +1,5 @@
+name: BaseOracle
+description: Base L2 intelligence — 9 tools
+endpoint: https://tooloracle.io/base/mcp/
+transport: streamable-http
+license: MIT
